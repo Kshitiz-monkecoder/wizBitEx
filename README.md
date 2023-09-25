@@ -20,5 +20,6 @@ Stay informed with the latest news and developments in the crypto space. We cura
 
 Join us on our journey to demystify the world of cryptocurrencies. Explore our website, engage with our community, and let us be your trusted companion as you navigate the exciting and ever-evolving crypto landscape.
 
-[Visit WizBitEx]([https://www.wizbitex.com](https://wizbitexx-1j16se829-kshitiz-monkecoder.vercel.app)https://wizbitexx-1j16se829-kshitiz-monkecoder.vercel.app)
+[Visit WizBitEx]
+[https://www.wizbitex.com](https://wizbitexx-1j16se829-kshitiz-monkecoder.vercel.app)https://wizbitexx-1j16se829-kshitiz-monkecoder.vercel.app
 
